@@ -1,19 +1,19 @@
-# Object Detection & Tracking (Task 4)
+# Real-Time Object Detection & Tracking
 
-## Overview
-This project performs real-time object detection and tracking using a webcam. It uses OpenCV to process video frames and detect objects in real time.
+## 📌 Project Overview
+This project is a real-time object detection and tracking system using a webcam. It detects objects in live video feed and highlights them using bounding boxes.
 
-## Features
-- Live webcam video processing
-- Object detection in real-time
-- Bounding box visualization
-- Simple exit control (Press Q)
+## 🚀 Features
+- Real-time webcam object detection  
+- Object tracking with bounding boxes  
+- Fast and lightweight processing  
+- Exit using 'Q' key  
 
-## Requirements
-- Python 3.x
-- OpenCV
-- NumPy
+## 🛠️ Technologies Used
+- Python  
+- OpenCV  
+- NumPy  
 
-Install dependencies:
+## ▶️ How to Run
 ```bash
-pip install opencv-python numpy
+python main.py
